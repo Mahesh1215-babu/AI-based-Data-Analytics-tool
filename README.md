@@ -55,7 +55,6 @@ Create a folder named .streamlit in your project root and inside it, create a fi
 Ini, TOML
 
 # .streamlit/secrets.toml
-GROQ_API_KEY="sk_gq_[YOUR_GROQ_API_KEY]"
 Run the application:
 
 Bash
